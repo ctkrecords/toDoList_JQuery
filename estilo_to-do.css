@@ -1,0 +1,61 @@
+body{
+	font-family: Garamond;
+	text-align: center;
+}
+button{
+	text-align: center;
+	font-family: Garamond;
+	border-radius: 4px;
+	font-size: .90em;
+	border-style: double;
+	padding: 5px 10px;
+}
+button:hover{
+	background-color: white;
+	cursor: pointer;
+}
+input[type=text]{
+	text-align: center;
+	font-family: Garamond;
+	border-radius: 4px;
+	font-size: .90em;
+	border-style: double;
+	padding: 5px 10px;
+}
+#campoVacio{
+	text-align: center;
+	font-size: 0.80em;
+	color: green;
+	margin-bottom: 5px;
+}
+ #otra{
+	text-align: center;
+	font-size: 0.80em;
+	color: green;
+}
+#main{
+	border-style: dashed;
+	border-left: 0;
+	border-right: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.checks{
+	border-style: none;
+	text-align: center;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: 0;
+	background-color: green;
+	color: white;
+	border-radius: 4px;
+}
+input[type=checkbox]{
+	text-align: left;
+}
+.cerrar{
+	margin-top: 0%;
+	margin-bottom: 2%;
+}
